@@ -32,7 +32,7 @@
 
 `python manage.py runserver`
 
-7. Open two tabs in browser at http://127.0.0.1/chat/ 
+7. Open two tabs in browser at http://127.0.0.1:8000/chat/ 
 
 8. Enter the same room name in both the tabs and hit enter
 
